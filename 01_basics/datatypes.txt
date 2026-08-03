@@ -19,3 +19,7 @@
 -None: none
 
 -Functions, modules, classes
+
+-Advance: Decorators, Generators, Itirators
+
+-Metaprogramming
