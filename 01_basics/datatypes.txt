@@ -13,3 +13,9 @@
 -set: set('abc'), {'a','b','c'}
 
 -File: open('abc.txt')
+
+-Boolean: True, False
+
+-None: none
+
+-Functions, modules, classes
