@@ -1,0 +1,154 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / Packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================
+# Virtual Environment
+# ==========================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+!.env.example
+
+# ==========================
+# Logs
+# ==========================
+*.log
+logs/
+
+# ==========================
+# Testing / Coverage
+# ==========================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.cache/
+coverage.xml
+*.cover
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# PyCharm
+# ==========================
+.idea/
+*.iml
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# mypy
+# ==========================
+.mypy_cache/
+
+# ==========================
+# Ruff
+# ==========================
+.ruff_cache/
+
+# ==========================
+# Pyre
+# ==========================
+.pyre/
+
+# ==========================
+# Cython
+# ==========================
+cython_debug/
+
+# ==========================
+# Flask
+# ==========================
+instance/
+.webassets-cache/
+
+# ==========================
+# Django
+# ==========================
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# ==========================
+# Static Files
+# ==========================
+staticfiles/
+
+# ==========================
+# Build Artifacts
+# ==========================
+*.manifest
+*.spec
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# ==========================
+# Model Files (Optional)
+# Uncomment if you don't want to commit ML models
+# ==========================
+# *.h5
+# *.hdf5
+# *.pt
+# *.pth
+# *.onnx
+# *.pkl
+# *.joblib
+
+# ==========================
+# Misc
+# ==========================
+.python-version
+pip-wheel-metadata/
