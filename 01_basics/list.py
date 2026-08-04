@@ -13,3 +13,6 @@ print("")
 colors[0]='orange'
 print(colors)  # Output: ['orange', 'green', 'blue', 'yellow', 'purple']
 
+colors[1:2]=['pink', 'cyan']
+print(colors)  # Output: ['orange', 'pink', 'cyan', 'blue', 'yellow', 'purple']
+
