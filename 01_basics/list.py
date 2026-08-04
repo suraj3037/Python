@@ -10,3 +10,6 @@ for color in colors:
 
 print("")
 
+colors[0]='orange'
+print(colors)  # Output: ['orange', 'green', 'blue', 'yellow', 'purple']
+
