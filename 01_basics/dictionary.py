@@ -31,3 +31,5 @@ Items={
 print(Items)  # Output: {'colors': {1: 'red', 2: 'green', 3: 'blue'}, 'fruits': {1: 'apple', 2: 'banana', 3: 'cherry'}}
 
 print(Items["colors"][1])  # Output: red
+
+Items.clear()  # Removes all items from the dictionary
