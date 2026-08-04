@@ -4,3 +4,6 @@ print(indexed_colors)
 
 for key in indexed_colors:
     print(key, indexed_colors[key])
+
+for key, value in indexed_colors.items():
+    print(key, value)
