@@ -33,3 +33,11 @@ print(name.split(" "))
 print(name.find("Doe"))
 
 print(name.count("o"))
+
+names= ["Alice", "Bob", "Charlie"]
+joined_names=", ".join(names)
+print("Joined names:", joined_names)
+
+
+for i in name:
+    print(i, end=" ")
