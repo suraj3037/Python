@@ -7,3 +7,5 @@ for key in indexed_colors:
 
 for key, value in indexed_colors.items():
     print(key, value)
+
+print(len(indexed_colors))  # Output: 3
