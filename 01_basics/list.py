@@ -16,3 +16,5 @@ print(colors)  # Output: ['orange', 'green', 'blue', 'yellow', 'purple']
 colors[1:2]=['pink', 'cyan']
 print(colors)  # Output: ['orange', 'pink', 'cyan', 'blue', 'yellow', 'purple']
 
+if 'blue' in colors:
+    print("Blue is in the list")
