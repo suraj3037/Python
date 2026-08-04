@@ -12,3 +12,6 @@ print(len(indexed_colors))  # Output: 3
 
 indexed_colors[4]="yellow"  # Adds a new key-value pair
 print(indexed_colors)  # Output: {1: 'red', 2: 'green', 3: 'blue', 4: 'yellow'}
+
+indexed_colors.pop(4)  # Removes the key-value pair with key 4
+print(indexed_colors)  # Output: {1: 'red', 2: 'green', 3: 'blue'}
